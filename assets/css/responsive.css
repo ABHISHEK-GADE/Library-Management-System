@@ -1,0 +1,14 @@
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    .login-container {
+        width: 80%;
+    }
+
+    table, th, td {
+        font-size: 14px;
+    }
+}
